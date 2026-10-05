@@ -1,0 +1,5 @@
+tabpfn-time-series
+pandas
+numpy
+tqdm
+scikit-learn
