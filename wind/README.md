@@ -1,5 +1,5 @@
 # wind
 
-wind forecasting repository, only reproduce main metrics: MAE, RMSE, aQL.
+wind forecasting repository, reproduce main metrics: MAE, RMSE, aQL.
 
 
