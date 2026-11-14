@@ -1,4 +1,5 @@
-# tsfm_energy_benchmarking
+# Time Series Foundation Models for Energy Forecasting: A Review and
+  Evaluation of Electricity Price, Load, Wind, and Solar Forecasting
 
 
 Compact paper-reproduction notebooks for **price, load, wind, and solar**. 
